@@ -29,6 +29,21 @@ public class ClassA {
 
 	private void uk() {
 		System.out.println("UK");
+
 	}
 
+	private void tamilNadu() {
+		System.out.println("Tamil");
+
+	}
+
+	private void kerala() {
+		System.out.println("Malayalam");
+
+	}
+
+	private void andhra() {
+		System.out.println("Telugu");
+
+	}
 }
