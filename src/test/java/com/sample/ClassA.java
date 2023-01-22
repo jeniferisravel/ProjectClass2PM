@@ -17,6 +17,21 @@ public class ClassA {
 
 	}
 
+	private void india() {
+		System.out.println("IND");
+
+	}
+
+	private void usa() {
+		System.out.println("USA");
+
+	}
+
+	private void uk() {
+		System.out.println("UK");
+
+	}
+
 	private void tamilNadu() {
 		System.out.println("Tamil");
 
@@ -31,5 +46,4 @@ public class ClassA {
 		System.out.println("Telugu");
 
 	}
-
 }
